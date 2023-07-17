@@ -15,7 +15,7 @@
 
 [Pavillion](https://www.amazon.com/dp/B0BVZJYJDG?tag=highlightreviews-94074-20&th=1 "32GB HP Pavillion")
 
-Looking at the specs for all three laptops I would definitely recommend the HP Pavillion. 
+### Looking at the specs for all three laptops I would definitely recommend the HP Pavillion. 
 1. We have a budget of $700 and the 32 GB HP is priced at $549.00.
 2. The CFO's choice really only serves as an entry-level laptop with decent streaming capabilities, but not good.
 3. The IdeaPad 3i is a substantial upgrade to the CFO's choice, has more RAM and better storage, and is priced at $319.00.
