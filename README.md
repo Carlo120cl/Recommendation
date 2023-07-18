@@ -22,7 +22,10 @@
 
 ## Recommendation HP Flagship 15.6 HD Pavillion
 ![Pavillion](Pavillion.jpg)
-
+* CPU Model: 	Pentium N5000
+* Number of Processors: This laptop has 4 processors
+* RAM: The laptop is equipped with 32GB of RAM.
+* Hard Drive Storage: It features a 1TB SSD (Solid State Drive) for storage.
 **[Pavillion](https://www.amazon.com/dp/B0BVZJYJDG?tag=highlightreviews-94074-20&th=1 "32GB HP Pavillion")**
 
 ### Looking at the specs for all three laptops I would definitely recommend the *HP Pavillion*. 
