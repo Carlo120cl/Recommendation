@@ -3,6 +3,11 @@
 ## CFO's Choice Lenovo IdeaPad
 ![CFO](CFO.jpg)
 
+-CPU Model: AMD Athlon Silver 7120U
+-Number of Processors: This laptop has a single processor.
+-RAM: It comes with 4GB of DDR4 RAM.
+-Hard Drive Storage: The laptop features a 128GB solid-state drive (SSD) for storage.
+
 **[IdeaPad](https://www.bestbuy.com/site/lenovo-ideapad-1-15-6-hd-laptop-athlon-silver-7120u-with-4gb-memory-128gb-ssd-cloud-grey/6531746.p?skuId=6531746 "IdeaPad")**
 
 ## Recommendation IdeaPad 3i
